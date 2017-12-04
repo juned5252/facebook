@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "192511886938",
+    "firebase_url": "https://fir-login-29dc8.firebaseio.com",
+    "project_id": "fir-login-29dc8",
+    "storage_bucket": "fir-login-29dc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192511886938:android:e1d74334e234f259",
+        "android_client_info": {
+          "package_name": "com.junedalam.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192511886938-1u9ghet2kp6r944ars1foq5n5j3b750s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ZiHaCRS_iYf_7xFAnoDojahxBqaldK0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
